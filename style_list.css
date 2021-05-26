@@ -1,0 +1,22 @@
+table {
+	text-align:center;
+	border:2px dashed gold;
+}
+h1 {
+	text-shadow: 3px 3px black;
+	text-align:center;
+	color:orange;
+	background-color:blue;
+}
+
+
+td:hover{
+	text-align: center;
+	color:black;
+	background-color:green;
+}
+tr,th {
+	text-align:center;
+	background-color:pink;
+	color:silver:
+}
