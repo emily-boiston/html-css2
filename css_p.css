@@ -1,0 +1,12 @@
+h1 {
+	text-align: center;
+	color:red;
+	background-color:pink;
+	font-size:6;
+}
+p {
+	color:green;
+	background-color:black;
+	font-style:bold;
+	text-align: left;
+}
